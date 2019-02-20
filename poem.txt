@@ -5,6 +5,7 @@ orange
 blue
 unicorn
 gree
+indigo
 yellow
 later
 red
